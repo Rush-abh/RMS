@@ -1,6 +1,6 @@
 **Developed By:** [Rushabh Pancholi](https://www.linkedin.com/in/rushabh-pancholi-62235b166/)
 
-**Project Definition:** Java application with the focus on MVC architecture. Application allows to store and display the recipe information. 
+**Project Definition:**  Application allows to store and display the recipe information. Java application with the focus on MVC architecture. 
 
 **Project Scope:** The users accessing the RMS should able to perform enter, save, serach, sort, display and export the details functionalities in this sytem.
 
