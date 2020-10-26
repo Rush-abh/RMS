@@ -1,3 +1,6 @@
+ # Recipe Management System (RMS)
+ 
+ ##
 **Developed By:** [Rushabh Pancholi](https://www.linkedin.com/in/rushabh-pancholi-62235b166/)
 
 **Project Definition:**  Application allows to store and display the recipe information. Java application with the focus on MVC architecture. 
@@ -7,9 +10,9 @@
 **Tools Used:**
 The system is developed using Java Technologies (NetBeans, Swing, Java DB).
 
-**Project Diagrams:**
-
 ##
+
+**Project Diagrams:**
 
 Class Diagram:
 GUI creation in a separate main class.
