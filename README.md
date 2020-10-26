@@ -12,6 +12,17 @@ The system is developed using Java Technologies (NetBeans, Swing, Java DB).
 
 ##
 
+<h3>HOW TO GET STARTED?</h3>
+
+Step 1: Open console (terminal)
+
+Step 2: In terminal: <br>
+       <b>type</b> javac -cp /src/recipemain/recipes.java <br>
+       
+Step 3: Use the GUI to iteract with system<br>
+
+##
+
 **Project Diagrams:**
 
 Class Diagram:
