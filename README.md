@@ -1,4 +1,4 @@
- # Recipe Management System (RMS)
+ # Recipe Management System (RMS) (JAVA)
  
  ##
 **Developed By:** [Rushabh Pancholi](https://www.linkedin.com/in/rushabh-pancholi-62235b166/)
